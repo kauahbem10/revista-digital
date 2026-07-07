@@ -14,6 +14,9 @@ body{
     padding: 32px;
     justify-content: center;
     align-items: center;
+    background-color: brown;
+    font-size: 24px;
+    color: aliceblue;
 }
 .conteudo01-img{
     width: 40%;
