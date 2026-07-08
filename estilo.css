@@ -8,6 +8,8 @@ body{
    flex-direction: column;
    align-items: center;
    height: 500px;
+   background-repeat: no-repeat;
+   background-size: contain;
 }
 
 .conteudo01{
