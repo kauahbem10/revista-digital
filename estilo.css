@@ -3,7 +3,7 @@ body{
     color: rgb(255, 255, 255);
 }
 .cabecalho{
-   background-image: url(./img/Screenshot\ 2026-06-24\ 12.10.46.png);
+   background-image: url(./img/download.jpeg);
    display: flex;
    flex-direction: column;
    align-items: center;
