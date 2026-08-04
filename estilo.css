@@ -31,13 +31,3 @@ body{
     padding: 32px;
 
 }
-.cabecalho{
-   background-image: url(img/download.jpeg);
-   display: flex;
-   flex-direction: column;
-   align-items: center;
-   justify-content: center;
-   height: 400px;
-   background-repeat: no-repeat;
-   background-size: cover;
-   }
